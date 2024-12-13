@@ -19,4 +19,4 @@ The Hospital Management System is a C++ application designed to manage patient r
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hospital-management-system.git
+   git clone https://github.com/Ahmedmo-27/hospital-management-system.git
